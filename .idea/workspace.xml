@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\mvnrep-idea" />
+        <option name="mavenHome" value="H:/install/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="H:\install\apache-maven-3.6.3\conf\settings-idea.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+</project>
